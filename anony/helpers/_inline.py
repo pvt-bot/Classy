@@ -150,11 +150,11 @@ class Inline:
         ]
         if private:
             rows += [
-                #[
+                [
                     self.ikb(
-                        text=lang["source"],
-                        url="https://github.com/pvt-bot/Classy",
-                    )#
+                        text=lang["Owner"],
+                        url="https://t.me/llTHUNDER_KINGll",
+                    )
                 ]
             ]
         else:
